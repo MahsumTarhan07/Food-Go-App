@@ -4,7 +4,10 @@
 ![foot-details3](https://user-images.githubusercontent.com/68226220/197366042-43ac522d-04de-4a45-b1c8-bb47773aab5d.png)
 ![food_details2](https://user-images.githubusercontent.com/68226220/197366031-cf42118c-b972-4656-b167-199990e0e003.png)
 
-Food Go App
+![mangif](https://user-images.githubusercontent.com/68226220/197390164-f8189ae3-eda8-4a8c-8c1f-ee6d2e3ea463.gif)
+![lınkedin](https://user-images.githubusercontent.com/68226220/197390174-2b30b6e0-d0ba-4ece-abdd-7fd796d22a77.gif) 
+
+https://www.linkedin.com/in/mahsum-tarhan-8b9074202/
 
 
 ## Getting Started
